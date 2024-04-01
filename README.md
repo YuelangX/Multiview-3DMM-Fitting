@@ -2,6 +2,7 @@
 This is a very fast offline fitting framework, which uses only landmarks. Currently commonly used 3DMM models: BFM, FaceVerse and FLAME are supported. 
 <img src="gifs/NeRSemble_031_bfm.gif" alt="demo" width="840" height="460"/> 
 <img src="gifs/sample_video.gif" alt="demo" width="840" height="210"/> 
+More results are in "gifs/".
 
 ## Installation
 ### Requirements
