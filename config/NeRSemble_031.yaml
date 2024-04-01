@@ -1,0 +1,13 @@
+image_folder: 'demo_dataset/NeRSemble_031/images'
+camera_folder: 'demo_dataset/NeRSemble_031/cameras'
+landmark_folder: 'demo_dataset/NeRSemble_031/landmarks'
+param_folder: 'demo_dataset/NeRSemble_031/params'
+gpu_id: 0
+camera_ids: ['220700191', '221501007', '222200036', '222200037', '222200038', '222200039', '222200040', '222200041',
+             '222200042', '222200043', '222200044', '222200045', '222200046', '222200047', '222200048', '222200049']
+image_size: 2048
+face_model: 'BFM'
+reg_id_weight: 1e-7
+reg_exp_weight: 1e-7
+save_vertices: False
+visualize: True

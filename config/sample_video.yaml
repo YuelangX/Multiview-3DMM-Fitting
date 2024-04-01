@@ -1,0 +1,12 @@
+image_folder: 'demo_dataset/sample_video/images'
+camera_folder: 'demo_dataset/sample_video/cameras'
+landmark_folder: 'demo_dataset/sample_video/landmarks'
+param_folder: 'demo_dataset/sample_video/params'
+gpu_id: 0
+camera_ids: ['00']
+image_size: 720
+face_model: 'BFM'
+reg_id_weight: 1e-7
+reg_exp_weight: 1e-8
+save_vertices: False
+visualize: True
