@@ -50,7 +50,7 @@ data_root
 |   |   |   └── ...
 |   |   └── ...
 ```
-I provide 3 cases in [demo_dataset](https://drive.google.com/file/d/1Y68JFPRxFy8auzi43-jJ86Js_BI9OllS/view?usp=drive_link), NeRSemble_031 and NeRSemble_036 are from [NeRSemble dataset](https://tobias-kirschstein.github.io/nersemble/).
+I provide 3 cases in [demo_dataset](https://cloud.tsinghua.edu.cn/f/242a23200af14576b992/?dl=1), NeRSemble_031 and NeRSemble_036 are from [NeRSemble dataset](https://tobias-kirschstein.github.io/nersemble/).
 Besides, I also provide a script "preprocess_monocular_video.py" for converting a monocular video to a structured dataset. 
 
 ## Multiview (monocular) Fitting
