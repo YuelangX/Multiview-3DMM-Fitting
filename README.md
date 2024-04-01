@@ -52,7 +52,7 @@ Second, detect 2D landmarks for all the input images.
 ```
 python detect_landmarks.py --config config/NeRSemble_031.yaml
 ```
-Third, fitting 3DMM model.
+Third, fit 3DMM model.
 ```
 python fitting.py --config config/NeRSemble_031.yaml
 ```
