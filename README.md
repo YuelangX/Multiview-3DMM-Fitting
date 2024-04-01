@@ -6,8 +6,10 @@ More results are in "gifs/".
 
 ## Installation
 ### Requirements
-* Create a conda environment `conda env create -f environment.yaml`.
-* Install [Pytorch3d](https://github.com/facebookresearch/pytorch3d) `pip install --no-index --no-cache-dir pytorch3d -f https://dl.fbaipublicfiles.com/pytorch3d/packaging/wheels/py38_cu113_pyt1120/download.html`.
+* Create a conda environment.
+```conda env create -f environment.yaml```
+* Install [Pytorch3d](https://github.com/facebookresearch/pytorch3d).
+```pip install --no-index --no-cache-dir pytorch3d -f https://dl.fbaipublicfiles.com/pytorch3d/packaging/wheels/py38_cu113_pyt1120/download.html```
 
 ### BFM
 * Follow the installation of [3DMM-Fitting-Pytorch](https://github.com/ascust/3DMM-Fitting-Pytorch) to generate "BFM09_model_info.mat" and put it into "assets/BFM/".
