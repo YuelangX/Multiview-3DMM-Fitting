@@ -1,9 +1,9 @@
 # 3DMM Fitting for Multiview (monocular) Videos
 This is a very fast offline fitting framework, which uses only landmarks. Currently commonly used 3DMM models: BFM, FaceVerse and FLAME are supported. 
-<img src="gifs/NeRSemble_031_bfm.gif" width="840" height="550"/> 
-<img src="gifs/NeRSemble_031_faceverse.gif" width="840" height="550"/> 
-<img src="gifs/NeRSemble_031_flame.gif" width="840" height="550"/> 
-<img src="gifs/sample_video.gif" width="840" height="550"/> 
+<img src="gifs/NeRSemble_031_bfm.gif" width="840" height="420"/> 
+<img src="gifs/NeRSemble_031_faceverse.gif" width="840" height="420"/> 
+<img src="gifs/NeRSemble_031_flame.gif" width="840" height="420"/> 
+<img src="gifs/sample_video.gif" width="840" height="210"/> 
 
 ## Installation
 ### Requirements
@@ -45,7 +45,7 @@ data_root
 |   |   |   └── ...
 |   |   └── ...
 ```
-I provide 3 cases in "demo_dataset/",  NeRSemble_031 and NeRSemble_036 are from NeRSemble(https://tobias-kirschstein.github.io/nersemble/).
+I provide 3 cases in demo_dataset(https://drive.google.com/file/d/1Y68JFPRxFy8auzi43-jJ86Js_BI9OllS/view?usp=drive_link), NeRSemble_031 and NeRSemble_036 are from NeRSemble(https://tobias-kirschstein.github.io/nersemble/).
 Besides, I also provide a script "preprocess_monocular_video.py" for converting a monocular video to a structured dataset. 
 
 ## Multiview (monocular) Fitting
