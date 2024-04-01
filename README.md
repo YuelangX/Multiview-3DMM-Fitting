@@ -19,7 +19,7 @@ More results are in "gifs/".
 * Download [FLAME model](https://flame.is.tue.mpg.de/) and put "generic_model.pkl" into "assets/FLAME/".
 * Download the embeddings from [RingNet](https://github.com/soubhiksanyal/RingNet/tree/master/flame_model) and put "flame_dynamic_embedding.npy" and "flame_static_embedding.pkl" into "assets/FLAME/".
 
-### More Datasets
+### Datasets
 Make the dataset according to the following directory structure:
 ```
 data_root
