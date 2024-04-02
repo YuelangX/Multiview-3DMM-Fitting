@@ -2,8 +2,8 @@ import os
 import cv2
 import numpy as np
 
-video_path = 'demo_dataset/sample_video.mp4'
-save_folder = 'demo_dataset/sample_video'
+video_path = '../demo_dataset/sample_video.mp4'
+save_folder = '../demo_dataset/sample_video'
 
 capture = cv2.VideoCapture(video_path)
 frame = 0
