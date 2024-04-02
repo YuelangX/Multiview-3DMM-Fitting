@@ -50,7 +50,7 @@ data_root
 |   |   |   └── ...
 |   |   └── ...
 ```
-I provide a script "preprocess/preprocess_monocular_video.py" for preprocessing [NeRSemble dataset](https://tobias-kirschstein.github.io/nersemble/) to such a structured dataset.
+I provide a script "preprocess/preprocess_monocular_video.py" for preprocessing [NeRSemble dataset](https://tobias-kirschstein.github.io/nersemble/) to such a structured dataset. Please apply to download it and put it into "path/to/raw_NeRSemble".
 ```
 cd preprocess
 python preprocess_nersemble.py
